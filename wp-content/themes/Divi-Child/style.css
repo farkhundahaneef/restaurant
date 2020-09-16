@@ -1,0 +1,13 @@
+/*
+Theme Name: Divi Child
+Text Domain:Divi-Child
+Template:Divi
+*/
+body{
+    background-color: black;
+}
+.preparation {
+    border: 2px solid;
+    margin-left: 107px;
+    margin-right: 107px;
+}
